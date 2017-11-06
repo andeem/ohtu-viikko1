@@ -2,3 +2,5 @@ build/
 
 *.tmp
 /.nb-gradle/
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/nhl/.nb-gradle/
